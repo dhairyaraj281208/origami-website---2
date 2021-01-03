@@ -1,0 +1,34 @@
+h1{
+    color: #000000;
+    border: solid;
+    backGround-color: yellow;
+}
+h2{
+    text-align: center;
+
+}
+body{
+    background-color:  rgb(48, 172, 194)
+}
+.grid img {
+    border: 2px solid  black;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color:  white;
+    text-align: center;
+    width:310px;
+    font: fantasy;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color:  black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:  white;
+}
